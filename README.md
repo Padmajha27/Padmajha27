@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Padmajha27
+- 👀 I’m interested in building projects
+- 🌱 I’m currently learning Microsoft Azure
