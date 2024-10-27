@@ -12,4 +12,7 @@ Hi, I'm Padmajha!<br><br>AIML Engineering student passionate about AI, machine l
 ![](https://github-readme-streak-stats.herokuapp.com/?user=padmajha27&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=padmajha27&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=padmajha27&theme=swift&no-frame=false&no-bg=true&margin-w=4)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
